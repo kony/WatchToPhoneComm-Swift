@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_enabled_": true,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": 0,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_opacity_": 100,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1e9423d6c99491a91079b3f5c58e1f6",
+    "_text_": "Ping Phone",
+    "_top_": 0,
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "id": "Button007a964e3967f48",
+    "ide_onClick": "AS_Button_bf356515acfc47bea7b938ad7905bcd4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ecc69d1d039d4776bfa5867b0936deb5",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "wType": "Button",
+    "widgetalignment": 1
+}
